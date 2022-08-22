@@ -15,4 +15,4 @@ def connectivity():
 if connectivity():
     print("URL is up!")
 else:
-    print("Couldn't reach it. Can you please check?")
+    print("Couldn't reach it. Could you please check back later?")
